@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sujal-Gupta2
-- 👀 I’m interested in Python, and C++/C Languages
+- 👀 I’m interested in Python, C++/C, SQL Languages
 - 🌱 I’m currently learning Data Analysts
 - 💞️ I’m looking to collaborate  with company to work as full time job
 - 📫 How to reach me  iamsujal456@gmail.com
